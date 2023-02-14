@@ -11,6 +11,7 @@ import {
   MDBBtn,
   MDBCollapse,
 } from "mdb-react-ui-kit";
+import Logo from "/Users/yagneshdhanani/Desktop/Conestoga/Capstone/The Wholesale Mart/client/src/assests/images/logo.JPG";
 
 function NavBar() {
   const [showBasic, setShowBasic] = useState(false);
@@ -18,7 +19,9 @@ function NavBar() {
     <>
       <MDBNavbar className="p-3" expand="lg" light bgColor="light">
         <MDBContainer fluid>
-          <MDBNavbarBrand href="/">The Wholesale Mart</MDBNavbarBrand>
+          <MDBNavbarBrand href="/">
+            <img className="logo" src={Logo} alt="The Wholesale Mart" />
+          </MDBNavbarBrand>
 
           <MDBNavbarToggler
             aria-controls="navbarSupportedContent"

@@ -47,12 +47,12 @@ function Footer() {
               <MDBCol md="3" lg="4" xl="3" className="mx-auto mb-4">
                 <h6 className="text-uppercase fw-bold mb-4">
                   <MDBIcon icon="gem" className="me-3" />
-                  Company name
+                  The Wholesale Mart
                 </h6>
                 <p>
-                  Here you can use rows and columns to organize your footer
-                  content. Lorem ipsum dolor sit amet, consectetur adipisicing
-                  elit.
+                  This is the start up initiate by the students who study at
+                  conestgoa college in the final year and we will provide a best
+                  solution in market to get best deal in the city for now.
                 </p>
               </MDBCol>
 
@@ -60,22 +60,22 @@ function Footer() {
                 <h6 className="text-uppercase fw-bold mb-4">Products</h6>
                 <p>
                   <a href="#!" className="text-reset">
-                    Angular
+                    Clothes
                   </a>
                 </p>
                 <p>
                   <a href="#!" className="text-reset">
-                    React
+                    Electronics
                   </a>
                 </p>
                 <p>
                   <a href="#!" className="text-reset">
-                    Vue
+                    Shoes
                   </a>
                 </p>
                 <p>
                   <a href="#!" className="text-reset">
-                    Laravel
+                    Accessories
                   </a>
                 </p>
               </MDBCol>
@@ -108,7 +108,7 @@ function Footer() {
                 <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
                 <p>
                   <MDBIcon icon="home" className="me-2" />
-                  New York, NY 10012, US
+                  Conestoga College, Waterloo
                 </p>
                 <p>
                   <MDBIcon icon="envelope" className="me-3" />
@@ -131,7 +131,7 @@ function Footer() {
         >
           © 2021 Copyright:
           <a className="text-reset fw-bold" href="https://mdbootstrap.com/">
-            MDBootstrap.com
+            Group 3
           </a>
         </div>
       </MDBFooter>

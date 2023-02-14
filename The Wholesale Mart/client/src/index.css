@@ -26,3 +26,8 @@ code {
 .container-bg {
   background-color: #eee;
 }
+
+.logo {
+  width: 20%;
+  padding-left: 100px;
+}
