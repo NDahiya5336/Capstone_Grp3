@@ -1,0 +1,28 @@
+@import "~mdb-ui-kit/css/mdb.min.css";
+
+body {
+  margin: 0;
+
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(230, 230, 230) !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+#navbar-button-container {
+  width: 55%;
+  margin-left: 1rem;
+}
+
+.container-bg {
+  background-color: #eee;
+}
