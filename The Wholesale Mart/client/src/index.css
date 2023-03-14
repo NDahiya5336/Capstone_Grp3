@@ -18,9 +18,21 @@ code {
     monospace;
 }
 
+#navbar-brand-logo {
+  display: block !important;
+}
+
+#navbar-brand-menu {
+  width: 80% !important;
+}
+
 #navbar-button-container {
-  width: 55%;
+  width: 60%;
   margin-left: 1rem;
+}
+
+#navbar-button-container button {
+  font-size: 0.9rem;
 }
 
 .container-bg {
@@ -28,6 +40,6 @@ code {
 }
 
 .logo {
-  width: 20%;
+  width: 25%;
   padding-left: 100px;
 }
